@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WafflesCordDevelopmentTeam/a/refs/heads/main/V3c%20bot.lua",true))()
